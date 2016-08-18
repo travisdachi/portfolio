@@ -8,7 +8,7 @@ Chayen is a word guessing game (charades) you can play with your friends, more f
 
 The app is quite simple. It make a get request to the server to retrieve a deck list, categorize them and display accordingly. Notable libraries used includes Glide, Retrofit 2, Gson, Hawk, ButterKnife, Calligraphy, Firebase and Crashlytics.
 
-A redesigned version 2 is in development (shuu... keep it secret). It is being written in Kotlin and following MVP pattern.
+A redesigned version 2 is in development (shhh... keep it secret, OK?). It is being written in Kotlin and following MVP pattern.
 
 ![alt text](https://lh3.ggpht.com/KRtSNX-ZHROtdJ2Mj0RtcdSfabCTnrVJevBWy7ockSn54S-ycISnWwD3X7CljP_dJA=w300-rw)
 
@@ -27,6 +27,12 @@ Giddylizer is a photography app. You can put stickers on your photo in a form of
 ## [Senka](https://play.google.com/store/apps/details?id=com.volevi.senka.camera)
 
 Senka is basically a reskinned version of Giddylizer with instagram-like feed. I was responsible for some adjustments, bug fixes and backend. The backend was written in Golang, running on Google Cloud App Engine. The data is stored on Google Cloud SQL, Datastore(NoSQL) and Storage.
+
+![](https://lh4.ggpht.com/bTf7X0uWwo3y8JLskfacT3YV5ufENtdA9ojf5HDzL0hLhr838Biu6nkKcwvi7qTO71Q=w300-rw)
+
+## [Master In-Shop](https://play.google.com/store/apps/details?id=com.volevi.masterprintlocal)
+
+When was the last time you get your photo printed? Probably years, right? But people still do that. At Master Photo Network, they let you print photos from your smart phone via usb cables. Unfortunately usb cables tend to break a lot and cost a lot of money. Master In-Shop is a wireless replacement, it lets you transfer photos from your device over wifi. The app use a custom made gallery to enable multiple selection.
 
 ![](https://lh6.ggpht.com/Y5sPzBg278EZf3-eVUDWNI52ukDXmXQ6qOZ_wPn9N3nhfoXb1LasF2V6mPC1-JmXMi_d=w300-rw)
 

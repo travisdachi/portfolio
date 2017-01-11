@@ -8,8 +8,6 @@ Chayen is a word guessing game (charades) you can play with your friends, more f
 
 The app is quite simple. It make a get request to the server to retrieve a deck list, categorize them and display accordingly. Notable libraries used includes Glide, Retrofit 2, Gson, Hawk, ButterKnife, Calligraphy, Firebase and Crashlytics.
 
-A redesigned version 2 is in development (shhh... keep it secret, OK?). It is being written in Kotlin and following MVP pattern.
-
 ![alt text](https://lh3.ggpht.com/KRtSNX-ZHROtdJ2Mj0RtcdSfabCTnrVJevBWy7ockSn54S-ycISnWwD3X7CljP_dJA=w300-rw)
 
 ## [AIS U Academy](https://play.google.com/store/apps/details?id=com.ais.education)
